@@ -1,0 +1,36 @@
+
+body{
+  background-color: #7f9fd0;
+}
+ul{
+  margin:0;
+  padding:0;
+}
+
+ul li{
+    list-style: none;
+    height:33.33vh;
+    width:100vw;
+}
+
+#particlestop, #Hello, #particlesbottom{
+  height:100%;
+}
+
+#particlestop{
+  background-color: #7f9fd0;
+}
+
+#particlesbottom{
+  background-color: #7f9fd0;
+}
+#Hello{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 2px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
